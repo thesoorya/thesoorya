@@ -1,5 +1,3 @@
-# 💫 About Me:
-🐱‍👤 Aspiring MERN Stack Developer<br>🎀 I’m looking for an opportunity<br>💻 Frontend, Backend and UI developer<br>🏎 I’m currently learning Java
 
 
 ## 🌐 Socials:
